@@ -1,2 +1,2 @@
 # bri_ki
-Entwicklung einer Pflegebegutachtung K
+Entwicklung einer Pflegebegutachtung KI

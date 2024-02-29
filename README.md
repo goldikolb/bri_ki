@@ -4,7 +4,7 @@
 <2>Projektübersicht</h2>
 Dieses Projekt zielt darauf ab, einen KI-basierten Chatbot zu entwickeln, der die Rolle eines Pflegegutachters übernehmen kann. Der Chatbot wird durch gezielte Fragen an pflegebedürftige Personen deren Hilfebedarf ermitteln, diesen nach den 77 Kriterien der Pflegebegutachtung in Deutschland einschätzen und den entsprechenden Pflegegrad bestimmen.
 
-<h2>Technologie und Methodik</h2>h2>
+<h2>Technologie und Methodik</h2>
 Sprachmodell: Das Projekt nutzt ein Large Language Model (LLM) ähnlich ChatGPT als Grundlage.
 Programmierung: Die Entwicklung erfolgt in Python und wird auf Google Colab durchgeführt.
 Datenstrukturierung: Die Begutachtungsrichtlinien werden strukturiert, um das Sprachmodell effektiv zu trainieren.
